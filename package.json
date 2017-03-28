@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gallantsuri/npmdemo.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gallantsuri/npmdemo/issues"
+  },
+  "homepage": "https://github.com/gallantsuri/npmdemo#readme"
+}
